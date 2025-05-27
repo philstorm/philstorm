@@ -9,7 +9,10 @@
 - <b>Phishing Attack Response Playbook for  Aquashield Utilities </b>
   - [Phishing Attack Playbook](https://docs.google.com/spreadsheets/d/1XlJKVuStoujkLpREekX9Y__ZaLZq56ab_Ym5-PBFRjo/edit?usp=sharing)
   
-    
+- <b>Vulnerability Assessment for Metasploitable</b>
+   - [Vulnerability Assessment](https://docs.google.com/document/d/1Eo9i4TMJOlZhw9zOTtN9zkz0pajjplMw-DMXgHRu1Eo/edit?usp=sharing)
+   - [Vulnerability Assessment Log](https://docs.google.com/document/d/1Eo9i4TMJOlZhw9zOTtN9zkz0pajjplMw-DMXgHRu1Eo/edit?usp=sharing)
+   
 - <b>Risk Assessment Project for CloudGen Solutions</b>
   - [Risk Assessment](https://docs.google.com/spreadsheets/d/1XlJKVuStoujkLpREekX9Y__ZaLZq56ab_Ym5-PBFRjo/edit?usp=sharing)
  
