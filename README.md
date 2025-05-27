@@ -1,6 +1,6 @@
-<h1>Hello, I'm Phil! </h1>
+<h1>Hello, I'm Phil! <br/><a href="https://www.linkedin.com/in/phillipafuwape">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Your Favorite Cybersecurity Professional :</h2>
+<h2>👨‍💻 PROJECT STATION </h2>
 
  <b>Projects</b>
 - <b>Incident Response Playbook for Aquashield Utilities</b>
