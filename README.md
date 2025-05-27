@@ -1,4 +1,4 @@
-<h1>Hello, I'm Phil! <br/><a href="https://www.linkedin.com/in/phillipafuwape">Cybersecurity Professional</a></h1>
+<h1>Hello, I'm Phil! <br/><a href="https://www.linkedin.com/in/phillipafuwape">Cybersecurity Analyst</a></h1>
 
 <h2>👨‍💻 PROJECT STATION </h2>
 
