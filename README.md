@@ -24,7 +24,8 @@
  
  <b>Certifications</b>
    - <b> ISC2 - Certified in Cybersecurity</b>
-   - <b> Google Cybersecurity Cert -In progress</b>
+   - <b> Google Cybersecurity Cert - Active</b>
+   - <b> Security+ | CompTIA – Active</b>
   
 <h2> Check out my LinkedIn! </h2>
  https://www.linkedin.com/in/phillipafuwape
