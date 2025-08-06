@@ -13,9 +13,18 @@
    Tools used: Google Docs, NIST AI RMF, ISO 27001, GitHub.
 
 
-- <b>Incident Response Playbook for Aquashield Utilities</b>
-  - [Incident Response Playbook](https://docs.google.com/spreadsheets/d/1HA0Ttiu3PPXXYdwGCRuhqXv3nktYkGx7X9Gfxc0tUjM/edit?usp=sharing)
-  - [Incident Response Report](https://docs.google.com/spreadsheets/d/1HA0Ttiu3PPXXYdwGCRuhqXv3nktYkGx7X9Gfxc0tUjM/edit?usp=sharing)
+- <b>INCIDENT RESPONSE PLAYBOOKS</b>
+
+  - [Incident Response Playbook for Aquashield Utilities](https://docs.google.com/spreadsheets/d/1HA0Ttiu3PPXXYdwGCRuhqXv3nktYkGx7X9Gfxc0tUjM/edit?usp=sharing)
+  - [Incident Response Report for Aquashield Utilities](https://docs.google.com/spreadsheets/d/1HA0Ttiu3PPXXYdwGCRuhqXv3nktYkGx7X9Gfxc0tUjM/edit?usp=sharing)
+
+ **Project Summary:**  
+   Developed an Incident Response Playbook for a simulated utility company, aligned with NIST 800-61.  
+   Included roles, communication workflows, containment strategies, and recovery actions.  
+   Tools used: Google Sheets, SonicWall, PowerShell, Splunk, NIST IR.
+
+ 
+    
 - <b>Phishing Attack Response Playbook for  Aquashield Utilities </b>
   - [Phishing Attack Playbook](https://docs.google.com/spreadsheets/d/1XlJKVuStoujkLpREekX9Y__ZaLZq56ab_Ym5-PBFRjo/edit?usp=sharing)
   
