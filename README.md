@@ -21,10 +21,10 @@
 
    - [Risk Assessment Test on Metasploitable x KaliLinux with VirtualB documented with screenshot evidence](https://docs.google.com/spreadsheets/d/1wRaHV_v_BciwgdR4RwXHJ415VLV9R49LGn_cGN4wmng/edit?usp=sharing)
 
-      **Project Summary:**  
-      Simulated a vulnerability exploitation scenario using Kali Linux on Metasploitable2 within VirtualBox.  
+       **Project Summary:**  
+       Simulated a vulnerability exploitation scenario using Kali Linux on Metasploitable2 within VirtualBox.  
        Documented high-risk findings (CVSS >9.0) and demonstrated hands-on remediation steps.  
-     Tools used: Kali Linux, Nessus Essentials, CVSS, VirtualBox, Markdown.
+       Tools used: Kali Linux, Nessus Essentials, CVSS, VirtualBox, Markdown.
 
 
    
@@ -62,13 +62,7 @@
     Identified and prioritized critical CVEs and provided a remediation roadmap.  
     Tools used: Kali Linux, Nessus, CVSS, NIST 800-53 RA-5.
 
-   
-- <b>Risk Assessment Project for CloudGen Solutions</b>
-  - [Risk Assessment Project for CloudGen Solutions](https://docs.google.com/spreadsheets/d/1XlJKVuStoujkLpREekX9Y__ZaLZq56ab_Ym5-PBFRjo/edit?usp=sharing)
- 
-- <b>Risk Assessment Test on Metasploitable x KaliLinux with VirtualB </b>
-  - [Risk Assessment Test on Metasploitable x KaliLinux with VirtualB documented with screenshot evidence](https://docs.google.com/spreadsheets/d/1wRaHV_v_BciwgdR4RwXHJ415VLV9R49LGn_cGN4wmng/edit?usp=sharing)
- 
+  
 - <b>TPRM on vendor Telemachus CloudServices</b>
   - [TPRM Report](https://docs.google.com/document/d/1SjItRv4jofvFL1U3pqhsKAO_uK5aq9Q1ur6crt36et0/edit?usp=sharing)
  
