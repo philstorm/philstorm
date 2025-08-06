@@ -40,10 +40,10 @@
    - [Vulnerability Assessment for Metasploitable](https://docs.google.com/document/d/1Eo9i4TMJOlZhw9zOTtN9zkz0pajjplMw-DMXgHRu1Eo/edit?usp=sharing)
    - [Vulnerability Assessment Log for Metasploitable](https://docs.google.com/document/d/1Eo9i4TMJOlZhw9zOTtN9zkz0pajjplMw-DMXgHRu1Eo/edit?usp=sharing)
  
-  **Project Summary:**  
-  Performed a Nessus Essentials vulnerability scan against Metasploitable2.  
-  Identified and prioritized critical CVEs and provided a remediation roadmap.  
-  Tools used: Kali Linux, Nessus, CVSS, NIST 800-53 RA-5.
+    **Project Summary:**  
+    Performed a Nessus Essentials vulnerability scan against Metasploitable2.  
+    Identified and prioritized critical CVEs and provided a remediation roadmap.  
+    Tools used: Kali Linux, Nessus, CVSS, NIST 800-53 RA-5.
 
    
 - <b>Risk Assessment Project for CloudGen Solutions</b>
