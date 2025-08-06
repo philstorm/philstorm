@@ -57,14 +57,21 @@
    - [Vulnerability Assessment for Metasploitable](https://docs.google.com/document/d/1Eo9i4TMJOlZhw9zOTtN9zkz0pajjplMw-DMXgHRu1Eo/edit?usp=sharing)
    - [Vulnerability Assessment Log for Metasploitable](https://docs.google.com/document/d/1Eo9i4TMJOlZhw9zOTtN9zkz0pajjplMw-DMXgHRu1Eo/edit?usp=sharing)
  
-    **Project Summary:**  
-    Performed a Nessus Essentials vulnerability scan against Metasploitable2.  
-    Identified and prioritized critical CVEs and provided a remediation roadmap.  
-    Tools used: Kali Linux, Nessus, CVSS, NIST 800-53 RA-5.
+     **Project Summary:**  
+     Performed a Nessus Essentials vulnerability scan against Metasploitable2.  
+     Identified and prioritized critical CVEs and provided a remediation roadmap.  
+     Tools used: Kali Linux, Nessus, CVSS, NIST 800-53 RA-5.
 
   
-- <b>TPRM on vendor Telemachus CloudServices</b>
-  - [TPRM Report](https://docs.google.com/document/d/1SjItRv4jofvFL1U3pqhsKAO_uK5aq9Q1ur6crt36et0/edit?usp=sharing)
+- <b>TPRM REPORT </b>
+
+  - [TPRM Report on vendor Telemachus CloudServices](https://docs.google.com/document/d/1SjItRv4jofvFL1U3pqhsKAO_uK5aq9Q1ur6crt36et0/edit?usp=sharing)
+
+    **Project Summary:**  
+    Conducted a Third-Party Risk Management assessment on Telemachus CloudServices using SIG Lite.  
+    Evaluated vendor controls against NIST, ISO 27001, and TPRM best practices.  
+    Tools used: Google Docs, Vendor Risk Matrix, ISO 27001, SIG Lite.
+
  
  <b>Certifications</b>
    - <b> ISC2 - Certified in Cybersecurity</b>
