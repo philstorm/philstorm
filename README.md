@@ -25,12 +25,26 @@
 
  
     
-- <b>Phishing Attack Response Playbook for  Aquashield Utilities </b>
-  - [Phishing Attack Playbook](https://docs.google.com/spreadsheets/d/1XlJKVuStoujkLpREekX9Y__ZaLZq56ab_Ym5-PBFRjo/edit?usp=sharing)
+- <b>PHISHING ATTATCK PLAYBOOKS </b>
+
+  - [Phishing Attack Playbook for  Aquashield Utilities](https://docs.google.com/spreadsheets/d/1XlJKVuStoujkLpREekX9Y__ZaLZq56ab_Ym5-PBFRjo/edit?usp=sharing)
+
+ **Project Summary:**  
+ Created a tailored phishing response playbook focused on containment and evidence preservation.  
+ Aligned to NIST 800-61 and mapped to SOC 2 CC6.1 for audit support.  
+ Tools used: Talos, VirusTotal, Google Workspace.
+
   
-- <b>Vulnerability Assessment for Metasploitable</b>
-   - [Vulnerability Assessment](https://docs.google.com/document/d/1Eo9i4TMJOlZhw9zOTtN9zkz0pajjplMw-DMXgHRu1Eo/edit?usp=sharing)
-   - [Vulnerability Assessment Log](https://docs.google.com/document/d/1Eo9i4TMJOlZhw9zOTtN9zkz0pajjplMw-DMXgHRu1Eo/edit?usp=sharing)
+- <b>VULNERABILITY ASSESSMENTS </b>
+
+   - [Vulnerability Assessment for Metasploitable](https://docs.google.com/document/d/1Eo9i4TMJOlZhw9zOTtN9zkz0pajjplMw-DMXgHRu1Eo/edit?usp=sharing)
+   - [Vulnerability Assessment Log for Metasploitable](https://docs.google.com/document/d/1Eo9i4TMJOlZhw9zOTtN9zkz0pajjplMw-DMXgHRu1Eo/edit?usp=sharing)
+ 
+  **Project Summary:**  
+  Performed a Nessus Essentials vulnerability scan against Metasploitable2.  
+  Identified and prioritized critical CVEs and provided a remediation roadmap.  
+  Tools used: Kali Linux, Nessus, CVSS, NIST 800-53 RA-5.
+
    
 - <b>Risk Assessment Project for CloudGen Solutions</b>
   - [Risk Assessment](https://docs.google.com/spreadsheets/d/1XlJKVuStoujkLpREekX9Y__ZaLZq56ab_Ym5-PBFRjo/edit?usp=sharing)
