@@ -3,6 +3,8 @@
 <h2>👨‍💻 PROJECT STATION </h2>
 
  <b>Projects</b>
+- <b>AI Responsible-Risk Assessment for Phoenix Corp</b>
+- [Risk Assessment](https://docs.google.com/document/d/1cgijqWHWwSNIh322nh-NwI9FA69DK9xkwJVOgtXC0EU/edit?usp=sharing)
 - <b>Incident Response Playbook for Aquashield Utilities</b>
   - [Incident Response Playbook](https://docs.google.com/spreadsheets/d/1HA0Ttiu3PPXXYdwGCRuhqXv3nktYkGx7X9Gfxc0tUjM/edit?usp=sharing)
   - [Incident Response Report](https://docs.google.com/spreadsheets/d/1HA0Ttiu3PPXXYdwGCRuhqXv3nktYkGx7X9Gfxc0tUjM/edit?usp=sharing)
