@@ -4,11 +4,8 @@
  <b>SUMMARY</b>
  
  <b>PROJECTS</b>
-Hi, I’m Phillip Afuwape — a Compliance Analyst and Cybersecurity Professional with over five years of experience aligning technical systems with frameworks like SOC 2, ISO 27001, NIST 800-53, PCI DSS, HIPAA, and GDPR. I specialize in translating complex compliance requirements into clear, actionable strategies that help businesses scale securely and responsibly.
-
-From building AI governance frameworks aligned with NIST AI RMF to developing incident response playbooks and automating audit readiness, I bring both technical depth and strategic vision to every project. I’ve worked across cloud, SCADA, and hybrid environments using tools like Nessus, Splunk, Power BI, and RSA Archer.
-
-I believe compliance is more than checklists — it’s how trust is built in the digital age. This GitHub is where I share real-world deliverables, frameworks, and risk assessments that showcase my commitment to excellence. If you’re building something that requires trust and security, you’re in the right place.
+ 
+Hey, I’m Phillip Afuwape — Compliance Analyst, Cybersecurity pro, and architect of secure digital futures. With 5+ years of experience across NIST, SOC 2, ISO 27001, PCI DSS, and AI governance, I help companies move fast without breaking trust. From automating audits to building AI risk frameworks, I turn complexity into clarity. The future isn’t waiting — and neither am I. This GitHub is where I drop proof: hands-on projects, frameworks, and policies built for tomorrow. If you're building with cloud, AI, or risk in mind — welcome. You just found your compliance partner.
 
 
 
