@@ -5,7 +5,7 @@
  
  <b>PROJECTS</b>
  
-Hey, I’m Phillip Afuwape — Compliance Analyst, Cybersecurity pro, and architect of secure digital futures. With 5+ years of experience across NIST, SOC 2, ISO 27001, PCI DSS, and AI governance, I help companies move fast without breaking trust. From automating audits to building AI risk frameworks, I turn complexity into clarity. The future isn’t waiting — and neither am I. This GitHub is where I drop proof: hands-on projects, frameworks, and policies built for tomorrow. If you're building with cloud, AI, or risk in mind — welcome. You just found your compliance partner.
+Advanced Compliance Analyst, Cybersecurity pro, and architect of secure digital futures. With 5+ years of experience across NIST, SOC 2, ISO 27001, PCI DSS, and AI governance, I help companies move fast without breaking trust. From automating audits to building AI risk frameworks, I turn complexity into clarity. The future isn’t waiting — and neither am I. This GitHub is where I drop proof: hands-on projects, frameworks, and policies built for tomorrow. If you're looking for solutions with great results with cloud, AI, or risk in mind — welcome. You just found your compliance Guru.
 
 
 
