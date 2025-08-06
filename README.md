@@ -1,8 +1,18 @@
 <h1>Hello, I'm Phil! <br/><a href="https://www.linkedin.com/in/phillipafuwape">Cybersecurity Analyst</a></h1>
 
 <h2>👨‍💻 PROJECT STATION </h2>
-
+ <b>SUMMARY</b>
+ 
  <b>PROJECTS</b>
+Hi, I’m Phillip Afuwape — a Compliance Analyst and Cybersecurity Professional with over five years of experience aligning technical systems with frameworks like SOC 2, ISO 27001, NIST 800-53, PCI DSS, HIPAA, and GDPR. I specialize in translating complex compliance requirements into clear, actionable strategies that help businesses scale securely and responsibly.
+
+From building AI governance frameworks aligned with NIST AI RMF to developing incident response playbooks and automating audit readiness, I bring both technical depth and strategic vision to every project. I’ve worked across cloud, SCADA, and hybrid environments using tools like Nessus, Splunk, Power BI, and RSA Archer.
+
+I believe compliance is more than checklists — it’s how trust is built in the digital age. This GitHub is where I share real-world deliverables, frameworks, and risk assessments that showcase my commitment to excellence. If you’re building something that requires trust and security, you’re in the right place.
+
+
+
+
  - <b>AI RESPONSIBLE-RISK ASSESSMENTS (ETHISCS) & RISK ASSESSMENTS </b>
 
    - [AI Risk Assessment For Phoenix Corp](https://docs.google.com/document/d/1cgijqWHWwSNIh322nh-NwI9FA69DK9xkwJVOgtXC0EU/edit?usp=sharing)
