@@ -3,25 +3,25 @@
 <h2>👨‍💻 PROJECT STATION </h2>
 
  <b>PROJECTS</b>
-- <b>AI RESPONSIBLE-RISK ASSESSMENTS</b>
+ - <b>AI RESPONSIBLE-RISK ASSESSMENTS</b>
 
- - [AI Risk Assessment For Phoenix Corp](https://docs.google.com/document/d/1cgijqWHWwSNIh322nh-NwI9FA69DK9xkwJVOgtXC0EU/edit?usp=sharing)
+   - [AI Risk Assessment For Phoenix Corp](https://docs.google.com/document/d/1cgijqWHWwSNIh322nh-NwI9FA69DK9xkwJVOgtXC0EU/edit?usp=sharing)
  
- **Project Summary:**  
-   Mapped NIST AI RMF functions to ISO 27001 Annex A controls to build an AI Governance Matrix.  
-   Helps organizations align AI system risk with existing ISMS compliance.  
-   Tools used: Google Docs, NIST AI RMF, ISO 27001, GitHub.
+      **Project Summary:**  
+      Mapped NIST AI RMF functions to ISO 27001 Annex A controls to build an AI Governance Matrix.  
+      Helps organizations align AI system risk with existing ISMS compliance.  
+      Tools used: Google Docs, NIST AI RMF, ISO 27001, GitHub.
 
 
 - <b>INCIDENT RESPONSE PLAYBOOKS</b>
 
-  - [Incident Response Playbook for Aquashield Utilities](https://docs.google.com/spreadsheets/d/1HA0Ttiu3PPXXYdwGCRuhqXv3nktYkGx7X9Gfxc0tUjM/edit?usp=sharing)
-  - [Incident Response Report for Aquashield Utilities](https://docs.google.com/spreadsheets/d/1HA0Ttiu3PPXXYdwGCRuhqXv3nktYkGx7X9Gfxc0tUjM/edit?usp=sharing)
+   - [Incident Response Playbook for Aquashield Utilities](https://docs.google.com/spreadsheets/d/1HA0Ttiu3PPXXYdwGCRuhqXv3nktYkGx7X9Gfxc0tUjM/edit?usp=sharing)
+   - [Incident Response Report for Aquashield Utilities](https://docs.google.com/spreadsheets/d/1HA0Ttiu3PPXXYdwGCRuhqXv3nktYkGx7X9Gfxc0tUjM/edit?usp=sharing)
 
- **Project Summary:**  
-   Developed an Incident Response Playbook for a simulated utility company, aligned with NIST 800-61.  
-   Included roles, communication workflows, containment strategies, and recovery actions.  
-   Tools used: Google Sheets, SonicWall, PowerShell, Splunk, NIST IR.
+     **Project Summary:**  
+     Developed an Incident Response Playbook for a simulated utility company, aligned with NIST 800-61.  
+     Included roles, communication workflows, containment strategies, and recovery actions.  
+     Tools used: Google Sheets, SonicWall, PowerShell, Splunk, NIST IR.
 
  
     
@@ -29,10 +29,10 @@
 
   - [Phishing Attack Playbook for  Aquashield Utilities](https://docs.google.com/spreadsheets/d/1XlJKVuStoujkLpREekX9Y__ZaLZq56ab_Ym5-PBFRjo/edit?usp=sharing)
 
- **Project Summary:**  
- Created a tailored phishing response playbook focused on containment and evidence preservation.  
- Aligned to NIST 800-61 and mapped to SOC 2 CC6.1 for audit support.  
- Tools used: Talos, VirusTotal, Google Workspace.
+     **Project Summary:**  
+     Created a tailored phishing response playbook focused on containment and evidence preservation.  
+     Aligned to NIST 800-61 and mapped to SOC 2 CC6.1 for audit support.  
+     Tools used: Talos, VirusTotal, Google Workspace.
 
   
 - <b>VULNERABILITY ASSESSMENTS </b>
